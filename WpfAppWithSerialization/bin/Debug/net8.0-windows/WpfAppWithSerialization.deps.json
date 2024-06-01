@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfAppWithSerialization/1.0.0": {
+        "dependencies": {
+          "SerializationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WpfAppWithSerialization.dll": {}
+        }
+      },
+      "SerializationLibrary/1.0.0": {
+        "runtime": {
+          "SerializationLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfAppWithSerialization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SerializationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

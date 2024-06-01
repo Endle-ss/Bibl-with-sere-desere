@@ -1,0 +1,11 @@
+H:\Программирование\SerializationLibrary\SerializationLibrary\bin\Debug\net8.0\SerializationLibrary.deps.json
+H:\Программирование\SerializationLibrary\SerializationLibrary\bin\Debug\net8.0\SerializationLibrary.dll
+H:\Программирование\SerializationLibrary\SerializationLibrary\bin\Debug\net8.0\SerializationLibrary.pdb
+H:\Программирование\SerializationLibrary\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\Программирование\SerializationLibrary\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.AssemblyInfoInputs.cache
+H:\Программирование\SerializationLibrary\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.AssemblyInfo.cs
+H:\Программирование\SerializationLibrary\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.csproj.CoreCompileInputs.cache
+H:\Программирование\SerializationLibrary\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.dll
+H:\Программирование\SerializationLibrary\SerializationLibrary\obj\Debug\net8.0\refint\SerializationLibrary.dll
+H:\Программирование\SerializationLibrary\SerializationLibrary\obj\Debug\net8.0\SerializationLibrary.pdb
+H:\Программирование\SerializationLibrary\SerializationLibrary\obj\Debug\net8.0\ref\SerializationLibrary.dll
